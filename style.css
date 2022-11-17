@@ -1,0 +1,38 @@
+
+.profile{
+    
+    box-shadow: 0 2px 8px 0 ;
+    max-width: 300px;
+    margin:auto;
+    text-align: center;
+}
+
+.profile-section-2-header{
+    
+  font-size: 25px;
+    
+}
+
+.profile-section-2-para1{
+    color:grey;
+}
+.profile-section-3{
+
+    background-color: rgba(33, 125, 245, 0.902);
+}
+
+.profile-section-3-links{
+
+    color:black;
+    text-decoration: none;
+}
+
+.button-para{
+    
+    color: rgb(247, 240, 240);
+   
+}
+
+button:hover,a:hover{
+    opacity:0.7;
+}
